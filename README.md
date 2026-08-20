@@ -36,7 +36,7 @@ In Claude Cowork, attach the folder you just created as a local folder for your 
 2. Select **Add marketplace by URL**
 3. Enter the following URL and click **Sync**:
    ```
-   https://github.com/twentworth12/linkedin-ads-manager-plugin.git
+   https://github.com/eneelkant/linkedin-ads-manager-claude-plugin.git
    ```
 4. Once synced, find **LinkedIn Ads Manager** in the marketplace and click **Install**
 
